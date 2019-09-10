@@ -56,6 +56,7 @@
     <Compile Include="Accounts\ACVoucher.cs" />
     <Compile Include="Accounts\AC_OB.cs" />
     <Compile Include="Accounts\AC_Accounts.cs" />
+    <Compile Include="Accounts\RPT\rptAC01.cs" />
     <Compile Include="ERP_System\ADLogin.cs" />
     <Compile Include="GN\GNBranch.cs" />
     <Compile Include="Inventory\INCategory.cs" />
