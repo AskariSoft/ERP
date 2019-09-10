@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CDF35076-5F08-448B-AE55-05EBFEEF6E7A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ERP</RootNamespace>
+    <AssemblyName>ERP</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Images.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Security">
+      <HintPath>..\..\BMS\BMS\bin\Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounts\Acc_OB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounts\Acc_OB.Designer.cs">
+      <DependentUpon>Acc_OB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\Denomination.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounts\Denomination.Designer.cs">
+      <DependentUpon>Denomination.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\frmAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounts\frmAccounts.Designer.cs">
+      <DependentUpon>frmAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\Vouchers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounts\Vouchers.Designer.cs">
+      <DependentUpon>Vouchers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\RV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounts\RV.Designer.cs">
+      <DependentUpon>RV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ERP_System\AdmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ERP_System\AdmLogin.designer.cs">
+      <DependentUpon>AdmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ERP_System\Sys_Setup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ERP_System\Sys_Setup.Designer.cs">
+      <DependentUpon>Sys_Setup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeScreen.Designer.cs">
+      <DependentUpon>HomeScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory\Inv_Setup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory\Inv_Setup.Designer.cs">
+      <DependentUpon>Inv_Setup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory\Transfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory\Transfer.Designer.cs">
+      <DependentUpon>Transfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory\Item_OB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory\Item_OB.Designer.cs">
+      <DependentUpon>Item_OB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory\Adj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory\Adj.Designer.cs">
+      <DependentUpon>Adj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory\SR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory\SR.Designer.cs">
+      <DependentUpon>SR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory\Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory\Sales.Designer.cs">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory\PR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory\PR.Designer.cs">
+      <DependentUpon>PR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory\GRN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory\GRN.Designer.cs">
+      <DependentUpon>GRN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory\PO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory\PO.Designer.cs">
+      <DependentUpon>PO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Accounts\Acc_OB.resx">
+      <DependentUpon>Acc_OB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounts\Denomination.resx">
+      <DependentUpon>Denomination.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounts\frmAccounts.resx">
+      <DependentUpon>frmAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounts\Vouchers.resx">
+      <DependentUpon>Vouchers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounts\RV.resx">
+      <DependentUpon>RV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ERP_System\AdmLogin.resx">
+      <DependentUpon>AdmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ERP_System\Sys_Setup.resx">
+      <DependentUpon>Sys_Setup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeScreen.resx">
+      <DependentUpon>HomeScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory\Inv_Setup.resx">
+      <DependentUpon>Inv_Setup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory\Transfer.resx">
+      <DependentUpon>Transfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory\Item_OB.resx">
+      <DependentUpon>Item_OB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory\Adj.resx">
+      <DependentUpon>Adj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory\SR.resx">
+      <DependentUpon>SR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory\Sales.resx">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory\PR.resx">
+      <DependentUpon>PR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory\GRN.resx">
+      <DependentUpon>GRN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory\PO.resx">
+      <DependentUpon>PO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="HR\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ERP.BLL\ERP.BLL.csproj">
+      <Project>{59275969-5e3c-47cc-972c-6fb0d30e654c}</Project>
+      <Name>ERP.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ERP.DAL\ERP.DAL.csproj">
+      <Project>{5099dc98-851a-435e-9d94-ff174bcee755}</Project>
+      <Name>ERP.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.svg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

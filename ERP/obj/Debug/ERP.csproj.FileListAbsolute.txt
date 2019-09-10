@@ -1,0 +1,374 @@
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.csprojAssemblyReference.cache
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.PO.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.exe.licenses
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.GRN.resources
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ERP.BLL.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ERP.DAL.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ERP.BLL.pdb
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ERP.DAL.pdb
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.Sales.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.PR.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.SR.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Accounts.Acc_OB.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Accounts.RV.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.Item_OB.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Accounts.Vouchers.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.Transfer.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.Adj.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Accounts.Accounts.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Accounts.Denomination.resources
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.HomeScreen.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.Inv_Setup.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.ERP_System.Sys_Setup.resources
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.EPR_System.AdmLogin.resources
+C:\Users\Adnan\source\repos\ERP\ERP\bin\Debug\Security.dll
+C:\Users\Adnan\source\repos\ERP\ERP\obj\Debug\ERP.Splash.resources
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ERP.BLL.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ERP.DAL.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ERP.BLL.pdb
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ERP.DAL.pdb
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.csprojAssemblyReference.cache
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Accounts.Accounts.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Accounts.Acc_OB.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Accounts.Denomination.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Accounts.Vouchers.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Accounts.RV.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.EPR_System.AdmLogin.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.ERP_System.Sys_Setup.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.HomeScreen.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.Inv_Setup.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.Transfer.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.Item_OB.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.Adj.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.SR.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.Sales.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.PR.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.GRN.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Inventory.PO.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.Splash.resources
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.exe.licenses
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\Imran\source\repos\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Imran\source\repos\ERP\ERP\bin\Debug\Security.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ERP.exe.config
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ERP.exe
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ERP.pdb
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Data.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Images.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Utils.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraBars.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ERP.BLL.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Office.v17.2.Core.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ERP.BLL.pdb
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Data.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Utils.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraBars.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\DevExpress.Office.v17.2.Core.xml
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.csprojAssemblyReference.cache
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Accounts.Acc_OB.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Accounts.Denomination.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Accounts.frmAccounts.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Accounts.Vouchers.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Accounts.RV.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.EPR_System.AdmLogin.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.ERP_System.Sys_Setup.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.HomeScreen.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Inventory.Inv_Setup.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Inventory.Transfer.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Inventory.Item_OB.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Inventory.Adj.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Inventory.SR.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Inventory.Sales.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Inventory.PR.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Inventory.GRN.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Inventory.PO.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.Splash.resources
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.exe.licenses
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.exe
+G:\1 - Projects\Source\Folder\ERP\ERP\obj\Debug\ERP.pdb

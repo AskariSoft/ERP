@@ -1,0 +1,24 @@
+C:\Users\Adnan\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.csprojAssemblyReference.cache
+C:\Users\Adnan\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.Properties.Resources.resources
+C:\Users\Adnan\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.csproj.GenerateResource.cache
+C:\Users\Adnan\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Adnan\source\repos\ERP\ERP.DAL\bin\Debug\ERP.DAL.dll
+C:\Users\Adnan\source\repos\ERP\ERP.DAL\bin\Debug\ERP.DAL.pdb
+C:\Users\Adnan\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.dll
+C:\Users\Adnan\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.pdb
+C:\Users\Imran\source\repos\ERP\ERP.DAL\bin\Debug\ERP.DAL.dll
+C:\Users\Imran\source\repos\ERP\ERP.DAL\bin\Debug\ERP.DAL.pdb
+C:\Users\Imran\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.csprojAssemblyReference.cache
+C:\Users\Imran\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.Properties.Resources.resources
+C:\Users\Imran\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.csproj.GenerateResource.cache
+C:\Users\Imran\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Imran\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.dll
+C:\Users\Imran\source\repos\ERP\ERP.DAL\obj\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\Folder\ERP\ERP.DAL\bin\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\Folder\ERP\ERP.DAL\bin\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\Folder\ERP\ERP.DAL\obj\Debug\ERP.DAL.csprojAssemblyReference.cache
+G:\1 - Projects\Source\Folder\ERP\ERP.DAL\obj\Debug\ERP.DAL.Properties.Resources.resources
+G:\1 - Projects\Source\Folder\ERP\ERP.DAL\obj\Debug\ERP.DAL.csproj.GenerateResource.cache
+G:\1 - Projects\Source\Folder\ERP\ERP.DAL\obj\Debug\ERP.DAL.csproj.CoreCompileInputs.cache
+G:\1 - Projects\Source\Folder\ERP\ERP.DAL\obj\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\Folder\ERP\ERP.DAL\obj\Debug\ERP.DAL.pdb

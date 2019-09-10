@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="Слой_1">
+  <g id="New">
+    <path d="M4,2v28h24V8h-6V2H4z" fill="#727272" class="Black" />
+    <polygon points="6,4 6,28 26,28 26,10 20,10 20,4  " fill="#FFFFFF" class="White" />
+  </g>
+</svg>
