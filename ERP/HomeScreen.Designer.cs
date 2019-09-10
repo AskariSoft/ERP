@@ -31,6 +31,12 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(HomeScreen));
             this.navBarControl1 = new DevExpress.XtraNavBar.NavBarControl();
+            this.navBarGroup3 = new DevExpress.XtraNavBar.NavBarGroup();
+            this.navBarItem10 = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarGroup1 = new DevExpress.XtraNavBar.NavBarGroup();
+            this.navBarItem1 = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarItem2 = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarItem3 = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarGroup2 = new DevExpress.XtraNavBar.NavBarGroup();
             this.navBarItem4 = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarItem5 = new DevExpress.XtraNavBar.NavBarItem();
@@ -38,10 +44,6 @@
             this.navBarItem7 = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarItem8 = new DevExpress.XtraNavBar.NavBarItem();
             this.navBarItem9 = new DevExpress.XtraNavBar.NavBarItem();
-            this.navBarGroup1 = new DevExpress.XtraNavBar.NavBarGroup();
-            this.navBarItem1 = new DevExpress.XtraNavBar.NavBarItem();
-            this.navBarItem2 = new DevExpress.XtraNavBar.NavBarItem();
-            this.navBarItem3 = new DevExpress.XtraNavBar.NavBarItem();
             this.barManager1 = new DevExpress.XtraBars.BarManager(this.components);
             this.bar2 = new DevExpress.XtraBars.Bar();
             this.barMdiChildrenListItem1 = new DevExpress.XtraBars.BarMdiChildrenListItem();
@@ -57,8 +59,6 @@
             this.xtraTabbedMdiManager1 = new DevExpress.XtraTabbedMdi.XtraTabbedMdiManager(this.components);
             this.imageCollection1 = new DevExpress.Utils.ImageCollection(this.components);
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.navBarGroup3 = new DevExpress.XtraNavBar.NavBarGroup();
-            this.navBarItem10 = new DevExpress.XtraNavBar.NavBarItem();
             ((System.ComponentModel.ISupportInitialize)(this.navBarControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabbedMdiManager1)).BeginInit();
@@ -91,6 +91,47 @@
             this.navBarControl1.Size = new System.Drawing.Size(140, 428);
             this.navBarControl1.TabIndex = 0;
             this.navBarControl1.Text = "navBarControl1";
+            // 
+            // navBarGroup3
+            // 
+            this.navBarGroup3.Caption = "REPORTING";
+            this.navBarGroup3.Expanded = true;
+            this.navBarGroup3.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem10)});
+            this.navBarGroup3.Name = "navBarGroup3";
+            // 
+            // navBarItem10
+            // 
+            this.navBarItem10.Caption = "ACCOUNTS";
+            this.navBarItem10.Name = "navBarItem10";
+            this.navBarItem10.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem10_LinkClicked);
+            // 
+            // navBarGroup1
+            // 
+            this.navBarGroup1.Caption = "FINANCIALS";
+            this.navBarGroup1.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem1),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem2),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem3)});
+            this.navBarGroup1.Name = "navBarGroup1";
+            // 
+            // navBarItem1
+            // 
+            this.navBarItem1.Caption = "ACCOUNTS";
+            this.navBarItem1.Name = "navBarItem1";
+            this.navBarItem1.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.btnAccounts_LinkClicked);
+            // 
+            // navBarItem2
+            // 
+            this.navBarItem2.Caption = "OP BALANCE";
+            this.navBarItem2.Name = "navBarItem2";
+            this.navBarItem2.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.btnAc_OB_LinkClicked);
+            // 
+            // navBarItem3
+            // 
+            this.navBarItem3.Caption = "VOUCHERS";
+            this.navBarItem3.Name = "navBarItem3";
+            this.navBarItem3.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem3_LinkClicked);
             // 
             // navBarGroup2
             // 
@@ -139,33 +180,6 @@
             this.navBarItem9.Caption = "SALES RETURN";
             this.navBarItem9.Name = "navBarItem9";
             this.navBarItem9.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem9_LinkClicked);
-            // 
-            // navBarGroup1
-            // 
-            this.navBarGroup1.Caption = "FINANCIALS";
-            this.navBarGroup1.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem1),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem2),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem3)});
-            this.navBarGroup1.Name = "navBarGroup1";
-            // 
-            // navBarItem1
-            // 
-            this.navBarItem1.Caption = "ACCOUNTS";
-            this.navBarItem1.Name = "navBarItem1";
-            this.navBarItem1.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.btnAccounts_LinkClicked);
-            // 
-            // navBarItem2
-            // 
-            this.navBarItem2.Caption = "OP BALANCE";
-            this.navBarItem2.Name = "navBarItem2";
-            this.navBarItem2.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.btnAc_OB_LinkClicked);
-            // 
-            // navBarItem3
-            // 
-            this.navBarItem3.Caption = "VOUCHERS";
-            this.navBarItem3.Name = "navBarItem3";
-            this.navBarItem3.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem3_LinkClicked);
             // 
             // barManager1
             // 
@@ -301,20 +315,6 @@
             this.timer1.Enabled = true;
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // navBarGroup3
-            // 
-            this.navBarGroup3.Caption = "REPORTING";
-            this.navBarGroup3.Expanded = true;
-            this.navBarGroup3.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem10)});
-            this.navBarGroup3.Name = "navBarGroup3";
-            // 
-            // navBarItem10
-            // 
-            this.navBarItem10.Caption = "Accounts reporting";
-            this.navBarItem10.Name = "navBarItem10";
-            this.navBarItem10.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.navBarItem10_LinkClicked);
             // 
             // HomeScreen
             // 
