@@ -70,6 +70,7 @@ namespace ERP.Accounts.RPT
         {
             rptAC01 clsrptAC01 = new rptAC01();
             DataSet ds_1;
+
             ds_1 = clsrptAC01.Fill_Combo(mSys_System.pComp_ID, mSys_System.pUser_ID);
             if (clsrptAC01.sErrorCode.Trim() != "")
             {
