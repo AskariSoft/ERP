@@ -60,6 +60,7 @@
             this.imageCollection1 = new DevExpress.Utils.ImageCollection(this.components);
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.navBarItem11 = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarItem12 = new DevExpress.XtraNavBar.NavBarItem();
             ((System.ComponentModel.ISupportInitialize)(this.navBarControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabbedMdiManager1)).BeginInit();
@@ -85,7 +86,8 @@
             this.navBarItem8,
             this.navBarItem9,
             this.navBarItem10,
-            this.navBarItem11});
+            this.navBarItem11,
+            this.navBarItem12});
             this.navBarControl1.Location = new System.Drawing.Point(0, 22);
             this.navBarControl1.Name = "navBarControl1";
             this.navBarControl1.OptionsNavPane.ExpandedWidth = 140;
@@ -100,7 +102,8 @@
             this.navBarGroup3.Expanded = true;
             this.navBarGroup3.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
             new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem10),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem11)});
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem11),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem12)});
             this.navBarGroup3.Name = "navBarGroup3";
             // 
             // navBarItem10
@@ -324,6 +327,11 @@
             this.navBarItem11.Caption = "FINALCIALS";
             this.navBarItem11.Name = "navBarItem11";
             // 
+            // navBarItem12
+            // 
+            this.navBarItem12.Caption = "INVENTORY";
+            this.navBarItem12.Name = "navBarItem12";
+            // 
             // HomeScreen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -379,5 +387,6 @@
         private DevExpress.XtraNavBar.NavBarGroup navBarGroup3;
         private DevExpress.XtraNavBar.NavBarItem navBarItem10;
         private DevExpress.XtraNavBar.NavBarItem navBarItem11;
+        private DevExpress.XtraNavBar.NavBarItem navBarItem12;
     }
 }
