@@ -11,6 +11,7 @@ using DevExpress.XtraBars;
 using ERP.Accounts;
 using DevExpress.XtraEditors;
 using ERP.Inventory;
+using ERP.Accounts.RPT;
 
 namespace ERP
 {
@@ -143,5 +144,12 @@ namespace ERP
             ObjSR.BringToFront();
         }
 
+        private void navBarItem10_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            AC01 ObjAC01 = new AC01();
+            ObjAC01.MdiParent = this;
+            ObjAC01.Show();
+            ObjAC01.BringToFront();
+        }
     }
 }

@@ -22,3 +22,11 @@ G:\1 - Projects\Source\Folder\ERP\ERP.DAL\obj\Debug\ERP.DAL.csproj.GenerateResou
 G:\1 - Projects\Source\Folder\ERP\ERP.DAL\obj\Debug\ERP.DAL.csproj.CoreCompileInputs.cache
 G:\1 - Projects\Source\Folder\ERP\ERP.DAL\obj\Debug\ERP.DAL.dll
 G:\1 - Projects\Source\Folder\ERP\ERP.DAL\obj\Debug\ERP.DAL.pdb
+F:\Github\ERP\ERP\ERP.DAL\bin\Debug\ERP.DAL.dll
+F:\Github\ERP\ERP\ERP.DAL\bin\Debug\ERP.DAL.pdb
+F:\Github\ERP\ERP\ERP.DAL\obj\Debug\ERP.DAL.csprojAssemblyReference.cache
+F:\Github\ERP\ERP\ERP.DAL\obj\Debug\ERP.DAL.Properties.Resources.resources
+F:\Github\ERP\ERP\ERP.DAL\obj\Debug\ERP.DAL.csproj.GenerateResource.cache
+F:\Github\ERP\ERP\ERP.DAL\obj\Debug\ERP.DAL.csproj.CoreCompileInputs.cache
+F:\Github\ERP\ERP\ERP.DAL\obj\Debug\ERP.DAL.dll
+F:\Github\ERP\ERP\ERP.DAL\obj\Debug\ERP.DAL.pdb
