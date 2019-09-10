@@ -59,6 +59,7 @@
             this.xtraTabbedMdiManager1 = new DevExpress.XtraTabbedMdi.XtraTabbedMdiManager(this.components);
             this.imageCollection1 = new DevExpress.Utils.ImageCollection(this.components);
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.navBarItem11 = new DevExpress.XtraNavBar.NavBarItem();
             ((System.ComponentModel.ISupportInitialize)(this.navBarControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabbedMdiManager1)).BeginInit();
@@ -83,7 +84,8 @@
             this.navBarItem7,
             this.navBarItem8,
             this.navBarItem9,
-            this.navBarItem10});
+            this.navBarItem10,
+            this.navBarItem11});
             this.navBarControl1.Location = new System.Drawing.Point(0, 22);
             this.navBarControl1.Name = "navBarControl1";
             this.navBarControl1.OptionsNavPane.ExpandedWidth = 140;
@@ -97,7 +99,8 @@
             this.navBarGroup3.Caption = "REPORTING";
             this.navBarGroup3.Expanded = true;
             this.navBarGroup3.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem10)});
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem10),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem11)});
             this.navBarGroup3.Name = "navBarGroup3";
             // 
             // navBarItem10
@@ -316,6 +319,11 @@
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // navBarItem11
+            // 
+            this.navBarItem11.Caption = "FINALCIALS";
+            this.navBarItem11.Name = "navBarItem11";
+            // 
             // HomeScreen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -370,5 +378,6 @@
         private DevExpress.XtraNavBar.NavBarItem navBarItem9;
         private DevExpress.XtraNavBar.NavBarGroup navBarGroup3;
         private DevExpress.XtraNavBar.NavBarItem navBarItem10;
+        private DevExpress.XtraNavBar.NavBarItem navBarItem11;
     }
 }
